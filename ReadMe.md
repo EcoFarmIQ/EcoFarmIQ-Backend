@@ -1,6 +1,6 @@
 # EcoFarmIQ
 
-# Founders
+# Founders.
 
 ## Haylemeskel Haylemariam - Founder and CEO
 
