@@ -3,7 +3,7 @@ const jwt = require("jsonwebtoken");
 const bcrypt = require("bcrypt");
 const nodemailer = require("nodemailer");
 
-
+ 
 // Register new user
 exports.registerUser = async (req, res) => {
   const { name, email, password } = req.body;
